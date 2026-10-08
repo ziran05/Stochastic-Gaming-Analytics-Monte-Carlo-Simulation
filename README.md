@@ -1,6 +1,4 @@
 # Stochastic Gaming Analytics & Monte Carlo Simulation
-
-# Stochastic Gaming Analytics & Monte Carlo Simulation
 - Project Overview
 This project models a short-memory stochastic process to analyze drop rates, success probabilities, and reward distributions under uncertainty. Instead of relying on static expected values, the framework uses a path-dependent Monte Carlo simulation (1,000 runs) to account for streak-based multipliers and reset mechanics.
 # Key Features

@@ -1,4 +1,4 @@
-# Game-statistical-analysis-and-simulation
+# Stochastic Gaming Analytics & Monte Carlo Simulation
 
 # Stochastic Gaming Analytics & Monte Carlo Simulation
 - Project Overview
